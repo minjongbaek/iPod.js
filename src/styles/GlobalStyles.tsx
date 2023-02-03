@@ -6,6 +6,8 @@ const GlobalStyles = createGlobalStyle`
     font-size: 16px;
     user-select: none;
     -webkit-touch-callout: none;
+    margin: 0;
+    padding: 0;
   }
 `;
 
